@@ -1,1 +1,1 @@
-[Yo Mood](_post/Mood/Mood.md)
+[Yo Mood](Mood/Mood.md)
